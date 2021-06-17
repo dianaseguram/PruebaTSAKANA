@@ -1,0 +1,28 @@
+.o-card{
+    display: flex;
+    flex-direction: column;
+    padding-left: 2em;
+    float: left;
+}
+
+.o-title2{
+font-size: 39px;
+text-align: left;
+padding-left: 2em;
+}
+
+.o-names{
+    text-align: justify;
+    font-family: Helvetica;
+    font-weight: lighter;
+    font-size: 1rem;
+}
+
+.o-prices{
+    text-align: left;
+}
+.o-div-info{
+    width: 10rem;
+    height: 9rem;
+    padding: 1rem;
+}
